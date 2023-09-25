@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(27, 100%, 50%);
+}
+
+.header {
+  color: black;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.mainSearch {
+  display: flex;
+  justify-content: center;
+  color: #ff0404;
+}
+
+.searchButton {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+}
